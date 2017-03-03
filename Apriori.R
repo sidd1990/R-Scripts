@@ -1,7 +1,6 @@
 # Last Name: Attri
 # First Name: Siddhant
-# Student ID: 1001382754
-# Assignment: Assignment # 5  
+ 
 
 #First, we imported our selected dataset from url: http://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data
 #Now, installing arules and arulesViz libraries.
