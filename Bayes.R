@@ -1,7 +1,6 @@
 # Last Name: Attri
 # First Name: Siddhant
-# Student ID: 1001382754
-# Assignment: Assignment on advanced 
+
 
 # First we will import the dataset from th ML repository called the energy efficiency dataset
 # the data set can be downloaded from https://archive.ics.uci.edu/ml/machine-learning-databases/00242/
